@@ -93,6 +93,7 @@ const projectData = {
         desc: 'A collection of complex hard surface models created using ZBrush and Maya, emphasizing detailed topology and mechanical precision.',
         images: [
             'images/scifi/space1.jpg',
+            'images/level_designing/level2.jpeg',
             //'images/scifi/drone close.jpeg',
             
 
