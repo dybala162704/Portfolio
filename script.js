@@ -95,6 +95,10 @@ const projectData = {
             'images/scifi/space1.jpg',
             'images/level_designing/level2.jpeg',
             'images/scifi/hard2.jpeg',
+            'images/scifi/hard3.jpeg',
+            'images/scifi/hard4.webp',
+            'images/scifi/hard5.jpeg',
+            
             //'images/scifi/drone close.jpeg',
             
 
